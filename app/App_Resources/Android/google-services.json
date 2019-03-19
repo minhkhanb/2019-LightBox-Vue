@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "107286336859",
+    "firebase_url": "https://lightbox-21838.firebaseio.com",
+    "project_id": "lightbox-21838",
+    "storage_bucket": "lightbox-21838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107286336859:android:d767bbd18df37cc9",
+        "android_client_info": {
+          "package_name": "success.app.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107286336859-26tvc47sketk4c5dkamuaj106m428pcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCad6t1rWyG-1m0hA7GpjGhKSly1-HULw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
